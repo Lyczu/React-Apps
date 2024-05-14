@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 80px;
+}
+
+a {
+  color: green;
+  text-decoration: none;  
+} 
+
+a:hover {
+  color: blue;
+}
+
+
